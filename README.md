@@ -1,7 +1,7 @@
 ## Joint Detection and Location of English Puns
 
 Code for the NAACL-19 paper: Joint Detection and Location of English Puns.
-This paper proposes to jointly address pun detection and location tasks by a sequence labeling approach with a new designed tagging scheme.
+This paper proposes to jointly address pun detection and location tasks by a sequence labeling approach with a newly designed tagging scheme.
 
 ### Requirements
 
