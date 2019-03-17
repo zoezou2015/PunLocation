@@ -20,7 +20,7 @@ class Config():
         self.fold_num = 10  # the number of n-fold cross validation
 
         self.use_pos_mask = True  # True: include position binary feature
-        self.use_all_instances = False  # True: all instances; False: only pun instances
+        self.use_all_instances = True  # True: all instances; False: only pun instances
 
         # Model parameters
         self.char_emb_dim = 30  # character embedding size
