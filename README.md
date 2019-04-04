@@ -21,8 +21,8 @@ bash run.sh
 
 ### Cite 
 ```
-@InProceedings{yanyan-19-joint,
-  author    = {Yanyan, Zou and Wei, Lu},
+@InProceedings{zou-19-joint,
+  author    = {Zou, Yanyan and Lu, Wei},
   title     = {Joint Detection and Location of English Puns},
   booktitle = {Proceedings of NAACL},
   year={2019}
